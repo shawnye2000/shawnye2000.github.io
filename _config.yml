@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaopeng Ye"
-description              : "Phd student at Renmin University of China"
+description              : "Xiaopeng Ye's Homepage"
 repository               : "shawnye2000/shawnye2000.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaopeng Ye"
   avatar           : "images/london.jpg"
-  bio              : "Renmin University of China"
+  bio              : "Phd student at Renmin University of China"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
