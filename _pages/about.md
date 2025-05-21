@@ -41,7 +41,7 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
   Chen Xu, Zhirui Deng, Clara Rus, **Xiaopeng Ye**, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, and Maarten de Rijke
 
-  **SIGIR 2025** \| [Paper](https://arxiv.org/abs/2502.11883) \| [Code](https://github.com/XuChen0427/FairDiverse)
+  **SIGIR 2025 Resource Paper** \| [Paper](https://arxiv.org/abs/2502.11883) \| [Code](https://github.com/XuChen0427/FairDiverse)
 
 - **LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops**
 
@@ -59,7 +59,7 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
   Chen Xu, **Xiaopeng Ye**, Wenjie Wang, Liang Pang, Jun Xu, and Tat-Seng Chua
 
-  **SIGIR 2024 Best Paper Honorable Mentrion** \| [Paper](https://dl.acm.org/doi/10.1145/3626772.3657766) \| [Code](https://github.com/XuChen0427/Tax-rank)
+  **SIGIR 2024 Best Paper Honorable Mention** \| [Paper](https://dl.acm.org/doi/10.1145/3626772.3657766) \| [Code](https://github.com/XuChen0427/Tax-rank)
 
 
 
