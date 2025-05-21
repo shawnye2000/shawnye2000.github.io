@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💡 About Me
-Hi! I'm Xiaopeng Ye, a second-year PhD student at Gaoling School of Artificial Intelligence (GSAI) at Renmin University of China, supervised by <a href="https://gsai.ruc.edu.cn/~junxu">Jun Xu</a>. My research focuses on Large Language Model, and Multi-Stakeholder Recommendation.
+Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artificial Intelligence (GSAI) at Renmin University of China, supervised by <a href="https://gsai.ruc.edu.cn/~junxu">Jun Xu</a>. My research focuses on Large Language Model, and Multi-Stakeholder Recommendation.
 
 
 
@@ -31,32 +31,44 @@ Hi! I'm Xiaopeng Ye, a second-year PhD student at Gaoling School of Artificial I
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+  **Xiaopeng Ye**, Chen Xu, Zhongxiang Sun, Jun Xu, Gang Wang, Zhenhua Dong, and Ji-Rong Wen
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  **SIGIR 2025** \| [Paper](https://arxiv.org/abs/2502.07307) \| [Code](https://github.com/shawnye2000/CreAgent)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+  Chen Xu, Zhirui Deng, Clara Rus, **Xiaopeng Ye**, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, and Maarten de Rijke
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **SIGIR 2024** \| [Paper](https://arxiv.org/abs/2502.11883) \| [Code](https://github.com/XuChen0427/FairDiverse)
+
+- **LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops**
+
+  Chen Xu, **Xiaopeng Ye**, Jun Xu, Xiao Zhang, Weiran Shen, and Ji-Rong Wen
+
+  **CIKM 2023** \| [Paper](https://dl.acm.org/doi/10.1145/3695867) \| [Code](https://github.com/XuChen0427/LTP-MMF)
+
+- **Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach**
+
+  **Xiaopeng Ye**, Chen Xu, Jun Xu, Xuyang Xie, Gang Wang, and Zhenhua Dong
+
+  **SIGIR 2025** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679590) \| [Code](https://github.com/shawnye2000/BankFair)
+
+- **A Taxation Perspective for Fair Re-ranking**
+
+  Chen Xu, **Xiaopeng Ye**, Wenjie Wang, Liang Pang, Jun Xu, and Tat-Seng Chua
+
+  **SIGIR 2024** \| [Paper](https://dl.acm.org/doi/10.1145/3626772.3657766) \| [Code](https://github.com/XuChen0427/Tax-rank)
+
+
 
 # 📖 Educations
 - *2023.09 - Present (now)*, PhD Student. Gaoling School of Artificial Intelligence, Renmin University of China. 
 - *2019.08 - 2023.06*, Bachelor of Computer Science. School of Computer Science, Xi'an Jiaotong University.
 - *2019.08 - 2023.06*, Bachelor of Management. School of Management, Xi'an Jiaotong University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
-- *2024.09 - 2025.09*, [Noah's Ark Lab, Huawei Technologies.](http://dev3.noahlab.com.hk/), Shenzhen, China.
+- *2024.09 - 2025.09*, [Noah's Ark Lab](http://dev3.noahlab.com.hk/), Huawei Technologies. Shenzhen, China.
