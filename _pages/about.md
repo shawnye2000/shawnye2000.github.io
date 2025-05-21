@@ -22,12 +22,12 @@ Hi! I'm Xiaopeng Ye, a second-year PhD student at Gaoling School of Artificial I
 
 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
+- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025) Resource Track.
+- *2024.11*: &nbsp;🎉🎉 Our paper ‘‘LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops’’ is accepted by The ACM Transactions on Information Systems (TOIS).
+- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach’’ is accepted by The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2024).
+- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘A Taxation Perspective for Fair Re-ranking’’ is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
 
 # 📝 Publications 
 
@@ -50,12 +50,13 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - Present (now)*, PhD Student. Gaoling School of Artificial Intelligence, Renmin University of China. 
+- *2019.08 - 2023.06*, Bachelor of Computer Science. School of Computer Science, Xi'an Jiaotong University.
+- *2019.08 - 2023.06*, Bachelor of Management. School of Management, Xi'an Jiaotong University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2024.09 - 2025.09*, [Noah's Ark Lab, Huawei Technologies.](https://github.com/), Shenzhen, China.
+- *2024.09 - 2025.09*, [Noah's Ark Lab, Huawei Technologies.](http://dev3.noahlab.com.hk/), Shenzhen, China.
