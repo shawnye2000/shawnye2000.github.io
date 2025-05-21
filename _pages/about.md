@@ -23,11 +23,11 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025).
-- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025) Resource Track.
-- *2024.11*: &nbsp;🎉🎉 Our paper ‘‘LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops’’ is accepted by The ACM Transactions on Information Systems (TOIS).
-- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach’’ is accepted by The 32nd ACM International Conference on Information and Knowledge Management (CIKM 2024).
-- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘A Taxation Perspective for Fair Re-ranking’’ is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2024).
+- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025**).
+- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025** Resource Track).
+- *2024.11*: &nbsp;🎉🎉 Our paper ‘‘LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops’’ is accepted by The ACM Transactions on Information Systems (**TOIS**).
+- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach’’ is accepted by The 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2024**).
+- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘A Taxation Perspective for Fair Re-ranking’’ is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2024**).
 
 # 📝 Publications 
 
@@ -41,25 +41,25 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
   Chen Xu, Zhirui Deng, Clara Rus, **Xiaopeng Ye**, Yuanna Liu, Jun Xu, Zhicheng Dou, Ji-Rong Wen, and Maarten de Rijke
 
-  **SIGIR 2024** \| [Paper](https://arxiv.org/abs/2502.11883) \| [Code](https://github.com/XuChen0427/FairDiverse)
+  **SIGIR 2025** \| [Paper](https://arxiv.org/abs/2502.11883) \| [Code](https://github.com/XuChen0427/FairDiverse)
 
 - **LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops**
 
   Chen Xu, **Xiaopeng Ye**, Jun Xu, Xiao Zhang, Weiran Shen, and Ji-Rong Wen
 
-  **CIKM 2023** \| [Paper](https://dl.acm.org/doi/10.1145/3695867) \| [Code](https://github.com/XuChen0427/LTP-MMF)
+  **TOIS** \| [Paper](https://dl.acm.org/doi/10.1145/3695867) \| [Code](https://github.com/XuChen0427/LTP-MMF)
 
 - **Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach**
 
   **Xiaopeng Ye**, Chen Xu, Jun Xu, Xuyang Xie, Gang Wang, and Zhenhua Dong
 
-  **SIGIR 2025** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679590) \| [Code](https://github.com/shawnye2000/BankFair)
+  **CIKM 2024** \| [Paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679590) \| [Code](https://github.com/shawnye2000/BankFair)
 
 - **A Taxation Perspective for Fair Re-ranking**
 
   Chen Xu, **Xiaopeng Ye**, Wenjie Wang, Liang Pang, Jun Xu, and Tat-Seng Chua
 
-  **SIGIR 2024** \| [Paper](https://dl.acm.org/doi/10.1145/3626772.3657766) \| [Code](https://github.com/XuChen0427/Tax-rank)
+  **SIGIR 2024 Best Paper Honorable Mentrion** \| [Paper](https://dl.acm.org/doi/10.1145/3626772.3657766) \| [Code](https://github.com/XuChen0427/Tax-rank)
 
 
 
