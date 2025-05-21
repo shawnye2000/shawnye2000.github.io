@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 💡 About Me
-Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artificial Intelligence (GSAI) at **Renmin University of China**, supervised by <a href="https://gsai.ruc.edu.cn/~junxu">Jun Xu</a>. My research focuses on Large Language Model, and Multi-Stakeholder Recommendation.
+Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artificial Intelligence (GSAI) of **Renmin University of China**, supervised by <a href="https://gsai.ruc.edu.cn/~junxu">Jun Xu</a>. My research focuses on Large Language Model, and Multi-Stakeholder Recommendation.
 
 
 
