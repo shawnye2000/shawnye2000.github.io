@@ -23,11 +23,11 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025**).
-- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025** Resource Track).
-- *2024.11*: &nbsp;🎉🎉 Our paper ‘‘LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops’’ is accepted by The ACM Transactions on Information Systems (**TOIS**).
-- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach’’ is accepted by The 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2024**).
-- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘A Taxation Perspective for Fair Re-ranking’’ is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2024**).
+- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2025)**.
+- *2025.04*: &nbsp;🎉🎉 Our paper ‘‘FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2025 Resource Track)**.
+- *2024.11*: &nbsp;🎉🎉 Our paper ‘‘LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops’’ is accepted by The ACM Transactions on Information Systems **(TOIS)**.
+- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘Guaranteeing Accuracy and Fairness under Fluctuating User Traffic: A Bankruptcy-Inspired Re-ranking Approach’’ is accepted by The 32nd ACM International Conference on Information and Knowledge Management **(CIKM 2024)**.
+- *2024.07*: &nbsp;🎉🎉 Our paper ‘‘A Taxation Perspective for Fair Re-ranking’’ is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2024)**.
 
 # 📝 Publications 
 
