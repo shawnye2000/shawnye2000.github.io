@@ -64,7 +64,7 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 
 # 📖 Educations
-- *2023.09 - Present (now)*, PhD Student. Gaoling School of Artificial Intelligence, Renmin University of China.
+- *2023.09 - Present*, PhD Student. Gaoling School of Artificial Intelligence, Renmin University of China.
 - *2019.08 - 2023.06*, Bachelor of Management (Dual degree). School of Management, Xi'an Jiaotong University. 
 - *2019.08 - 2023.06*, Bachelor of Computer Science. School of Computer Science, Xi'an Jiaotong University.
 
