@@ -31,6 +31,12 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 # 📝 Publications 
 
+- **Q-PRM: Adaptive Query Rewriting for Retrieval-Augmented Generation via Process Supervision**
+
+  **Xiaopeng Ye**, Chen Xu, Chaoliang Zhang, Zhaocheng Du, Jun Xu, Gang Wang, Zhenhua Dong
+
+  **EMNLP 2025**
+
 - **LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry**
 
   **Xiaopeng Ye**, Chen Xu, Zhongxiang Sun, Jun Xu, Gang Wang, Zhenhua Dong, and Ji-Rong Wen
