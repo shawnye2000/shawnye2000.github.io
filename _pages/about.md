@@ -36,7 +36,7 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
   **Xiaopeng Ye**, Chen Xu, Chaoliang Zhang, Zhaocheng Du, Jun Xu, Gang Wang, Zhenhua Dong
 
-  **EMNLP 2025 Findings**
+  **EMNLP 2025 Findings**  \| [Paper](https://aclanthology.org/anthology-files/anthology-files/pdf/findings/2025.findings-emnlp.817.pdf) \|
 
 - **LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry**
 
@@ -79,3 +79,4 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 # 💻 Internships
 - *2024.09 - 2025.09*, [Noah's Ark Lab](http://dev3.noahlab.com.hk/), Huawei Technologies. Shenzhen, China.
+- *2025.10 - Now*, TikTok. Beijing, China.
