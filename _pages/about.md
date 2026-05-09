@@ -24,7 +24,7 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Our survey paper ‘‘Content Generation for Information Retrieval Systems: A Survey from the Supply-Side Optimization Perspective’’ has been open-sourced. Welcome to follow and pay attention! [Paper](https://www.researchgate.net/publication/404225930_Content_Generation_for_Information_Retrieval_Systems_A_Survey_from_the_Supply-Side_Optimization_Perspective/stats), [Github](https://github.com/shawnye2000/Content_Generation_for_IR_Survey) .
-- *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Q-PRM: Adaptive Query Rewriting for Retrieval-Augmented Generation via Process Supervision’’ is accepted by The 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP 2025 Findings)**.
+- *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Q-PRM: Adaptive Query Rewriting for Retrieval-Augmented Generation via Process Supervision’’ is accepted by The 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP 2025)**.
 - *2025.04*: &nbsp;🎉🎉 Our paper ‘‘LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2025)**.
 - *2025.04*: &nbsp;🎉🎉 Our paper ‘‘FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2025 Resource Track)**.
 - *2024.11*: &nbsp;🎉🎉 Our paper ‘‘LTP-MMF: Toward Long-Term Provider Max-Min Fairness under Recommendation Feedback Loops’’ is accepted by The ACM Transactions on Information Systems **(TOIS)**.
