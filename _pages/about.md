@@ -42,9 +42,9 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 - **Autonomous Information Seeking: A Roadmap for Agentic Recommender Systems**
 
-Xinyu Lin, Yashar Deldjoo, Sunhao Dai, Honghui Bao, **Xiaopeng Ye**, Fatemeh Nazary, Wenjie Wang, Tommaso Di Noia, Jun Xu, Tat-Seng Chua
-
-**Arxiv**  \| [Paper](https://arxiv.org/abs/2607.04433) \|
+  Xinyu Lin, Yashar Deldjoo, Sunhao Dai, Honghui Bao, **Xiaopeng Ye**, Fatemeh Nazary, Wenjie Wang, Tommaso Di Noia, Jun Xu, Tat-Seng Chua
+  
+  **Arxiv**  \| [Paper](https://arxiv.org/abs/2607.04433) \|
   
 - **No Stakeholder Left Behind: Regret-Aware Re-Ranking for Two-Sided Fair Recommendation**
 
