@@ -23,7 +23,9 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 
 
 # 🔥 News
-- *2025.08*: &nbsp;🎉🎉 Our survey paper ‘‘Content Generation for Information Retrieval Systems: A Survey from the Supply-Side Optimization Perspective’’ has been open-sourced. Welcome to follow and pay attention! [Paper](https://www.researchgate.net/publication/404225930_Content_Generation_for_Information_Retrieval_Systems_A_Survey_from_the_Supply-Side_Optimization_Perspective/stats), [Github](https://github.com/shawnye2000/Content_Generation_for_IR_Survey) .
+- *2026.08*: &nbsp;🎉🎉 Our survey paper ‘‘Content Generation for Information Retrieval Systems: A Survey from a Supply-Side Optimization Perspective’’ has been accepted by **Frontiers of Computer Science (FCS)**. Welcome to follow and pay attention! [Paper](https://www.researchgate.net/publication/404225930_Content_Generation_for_Information_Retrieval_Systems_A_Survey_from_the_Supply-Side_Optimization_Perspective/stats), [Github](https://github.com/shawnye2000/Content_Generation_for_IR_Survey).
+- *2026.08*: &nbsp;🎉🎉 Our survey paper ‘‘Autonomous Information Seeking: A Roadmap for Agentic Recommender Systems’’ has been opensourced. Welcome to follow and pay attention! [Paper](https://arxiv.org/abs/2607.04433).
+- *2026.05*: &nbsp;🎉🎉 Our paper ‘‘No Stakeholder Left Behind: Regret-Aware Re-Ranking for Two-Sided Fair Recommendation’’ has been accepted by **TOIS**. Welcome to follow and pay attention! [Paper](https://dl.acm.org/doi/10.1145/3820899).
 - *2025.08*: &nbsp;🎉🎉 Our paper ‘‘Q-PRM: Adaptive Query Rewriting for Retrieval-Augmented Generation via Process Supervision’’ is accepted by The 2025 Conference on Empirical Methods in Natural Language Processing **(EMNLP 2025)**.
 - *2025.04*: &nbsp;🎉🎉 Our paper ‘‘LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2025)**.
 - *2025.04*: &nbsp;🎉🎉 Our paper ‘‘FairDiverse: A Comprehensive Toolkit for Fair and Diverse Information Retrieval Algorithms’’ is accepted by The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2025 Resource Track)**.
@@ -32,6 +34,23 @@ Hi! This is Xiaopeng Ye, a second-year PhD student at Gaoling School of Artifici
 - *2024.07*: &nbsp;🎉🎉 Our paper ‘‘A Taxation Perspective for Fair Re-ranking’’ is accepted by The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2024)**.
 
 # 📝 Publications 
+- **Content Generation for Information Retrieval Systems: A Survey from a Supply-Side Optimization Perspective**
+
+  **Xiaopeng Ye**, Zhuoyang Li, Baosong Yuan, Chen Xu, Jun Xu, Ji-Rong Wen
+
+  **FCS**  \| [Paper](https://www.researchgate.net/publication/404225930_Content_Generation_for_Information_Retrieval_Systems_A_Survey_from_the_Supply-Side_Optimization_Perspective/stats) \|
+
+- **Autonomous Information Seeking: A Roadmap for Agentic Recommender Systems**
+
+Xinyu Lin, Yashar Deldjoo, Sunhao Dai, Honghui Bao, **Xiaopeng Ye**, Fatemeh Nazary, Wenjie Wang, Tommaso Di Noia, Jun Xu, Tat-Seng Chua
+
+**Arxiv**  \| [Paper](https://arxiv.org/abs/2607.04433) \|
+  
+- **No Stakeholder Left Behind: Regret-Aware Re-Ranking for Two-Sided Fair Recommendation**
+
+  **Xiaopeng Ye**, Chen Xu, Jun Xu, Xuyang Xie, Gang Wang, Zhenhua Dong
+
+  **TOIS**  \| [Paper](https://dl.acm.org/doi/10.1145/3820899) \|
 
 - **Q-PRM: Adaptive Query Rewriting for Retrieval-Augmented Generation via Process Supervision**
 
